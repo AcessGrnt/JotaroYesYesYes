@@ -1,4 +1,4 @@
-const yesYes = document.getElementById('Trap');
+const yesYes = document.getElementById('Trap'); 
 const noNo = document.getElementById('Mulher');
 const esperando = document.getElementById('espe');
 const norm = document.getElementById('Normal');
@@ -18,3 +18,5 @@ function none () {
 yesYes.addEventListener('click', yesyes);
 noNo.addEventListener('click', nono);
 norm.addEventListener('click', none);
+
+// Isto não é um projeto serio!
